@@ -5,6 +5,11 @@
 </div>
 <img align="left" src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="250">
 
+
+<table>
+  <tr height="59px"><td></td></tr>
+</table>
+
 $${\color{gray}𝓯𝑟ℯℯ \space \color{gray}𝓬𝑢𝒹𝒹𝑙ℯ𝑠 \space \color{gray}𝒉ℯ𝑟ℯ} $$
 $${\color{gray}𝓹𝑙ℯ𝒂𝑠ℯ𝓹𝑙ℯ𝒂𝑠ℯ𝓹𝑙𝑠}$$
 $${\color{gray} 𝒾 \space \color {gray}𝒂𝑚 \space \color{gray}𝑠ℴ \space \color{gray}𝑙ℴ𝓷ℯ𝑙𝔂} $$
