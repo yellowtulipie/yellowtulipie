@@ -1,19 +1,27 @@
 <h1>
-  hello there
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydjNoejc1NWJ5dWowaHlzajVtb21lMzhsNGk3cTBwZWZwOWZxc2pnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif" width="30px"/>
+hello there
+<img src="https://cdn.phototourl.com/free/2026-07-28-3a599f2a-d7d5-4c93-a314-40665f57767c.gif" width="30px"/>
 </h1>
-</div>
-<img align="left" src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="260">
+<div>
+<img align="left" src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="230">
 
+<img src="https://cdn.phototourl.com/free/2026-07-28-7ab2ffc1-e3fb-4761-a71d-09f3027d7108.gif" width="150px"/>
+</h1>
 
 $$
 \begin{gathered}
 {\color{#00000000} \text{Invisible line 1}} \\
 {\color{#00000000} \text{Invisible line 2}} \\
-{\color{#00000000} \text{Invisible line 3}} \\
-{\color{#00000000} \text{Invisible line 4}} \\
 {\color{gray}𝓯𝑟ℯℯ \space \color{gray}𝓬𝑢𝒹𝒹𝑙ℯ𝑠 \space \color{gray}𝒉ℯ𝑟ℯ} \\
 {\color{gray}𝓹𝑙ℯ𝒂𝑠ℯ𝓹𝑙ℯ𝒂𝑠ℯ𝓹𝑙𝑠} \\
 {\color{gray} 𝒾 \space \color {gray}𝒂𝑚 \space \color{gray}𝑠ℴ \space \color{gray}𝑙ℴ𝓷ℯ𝑙𝔂}
 \end{gathered}
 $$
+$$
+\begin{gathered}
+{\color{#00000000} \text{Invisible line 1}} \\
+\end{gathered}
+$$
+
+<img src="https://cdn.phototourl.com/free/2026-07-28-4c12b3a0-5dfc-4b15-9d86-da7cf24c18cd.gif" width="150px"/>
+</h1>
