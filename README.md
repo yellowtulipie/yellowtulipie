@@ -12,7 +12,7 @@ $$
 \begin{gathered}
 {\color{#00000000} \text{Invisible line 1}} \\
 {\color{#00000000} \text{Invisible line 2}} \\
-{\color{gray}𝒇𝒓𝒆𝒆 \space \color{gray}𝒄𝒖𝒅𝒅𝒍𝒆𝒔 \space \color{gray}𝒉𝒆𝒓𝒆} \\
+{\color{gray}𝒇𝒓𝒆𝒆 \space \color{gray}𝒄𝒖𝒅𝒅𝒍𝒆𝒔} \\
 {\color{gray}𝒑𝒍𝒆𝒂𝒔𝒆𝒑𝒍𝒆𝒂𝒔𝒆𝒑𝒍𝒔} \\
 {\color{gray}𝒊 \space \color {gray}𝒂𝒎 \space \color{gray}𝒔𝒐 \space \color{gray}𝒍𝒐𝒏𝒆𝒍𝒚}
 \end{gathered}
