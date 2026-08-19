@@ -3,12 +3,10 @@ hello there
 <img src="https://cdn.phototourl.com/free/2026-08-19-28f94447-1c3e-4c2a-b8a5-2873dfb079e0.gif" width="23px"/>
 </h1>
 <div>
-
 <img src="https://cdn.phototourl.com/free/2026-08-19-237478b9-4bf5-4980-ba8c-71d565cce0ba.png" width="900">
-
-
-![](https://komarev.com/ghpvc/?username=yellowtulipie&style=plastic&color=lightgrey&label=noobs) 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yellowtulipie&style=plastic&color=lightgrey&label=noobs" />
+</p>
 <p align="right" >   
     <img src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="450"> </p>
 <p align="center" 
