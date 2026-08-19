@@ -9,7 +9,7 @@ hello there
 <img src="https://cdn.phototourl.com/free/2026-08-19-83d4b6af-b182-4e81-aa09-d47c56495479.gif" width="900">
 <img src="https://cdn.phototourl.com/member/2026-08-19-9eed20f9-059c-4ea9-b9be-25445e8b5003.jpg" width="900">
 <p align="center" >   
-    <img src="https://cdn.phototourl.com/member/2026-08-19-b2cca6cc-d80a-4510-a6c4-f8c9577e8b47.png" width="450"> </p>
+    <img src="https://cdn.phototourl.com/member/2026-08-19-b2cca6cc-d80a-4510-a6c4-f8c9577e8b47.png" width="600"> </p>
 <p align="center" 
 <img scr="https://cdn.phototourl.com/free/2026-08-19-ef167175-f24e-43db-957c-711a8a321821.png" width="300"></p>
 <img src="https://cdn.phototourl.com/member/2026-08-19-596f7981-1895-4a55-8023-84973b2a3891.jpg" width="900">
