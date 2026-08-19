@@ -6,6 +6,9 @@ hello there
 
 <img src="https://cdn.phototourl.com/free/2026-08-19-237478b9-4bf5-4980-ba8c-71d565cce0ba.png" width="900">
 
+
+![](https://komarev.com/ghpvc/?username=yellowtulipie&style=plastic&color=lightgrey&label=noobs) 
+
 <p align="right" >   
     <img src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="450"> </p>
 <p align="center" 
