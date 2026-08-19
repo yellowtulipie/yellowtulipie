@@ -4,9 +4,9 @@ hello there
 </h1>
 <div>
 
-<img src="https://cdn.phototourl.com/free/2026-08-19-8faa2f9c-8893-4d6a-a712-a9afee82839f.jpg" width="1000">
+<img src="https://cdn.phototourl.com/free/2026-08-19-8faa2f9c-8893-4d6a-a712-a9afee82839f.jpg" width="900">
 
-<p align="center" >   
-    <img src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="500"> </p>
+<p align="right" >   
+    <img src="https://cdn.phototourl.com/free/2026-07-27-1efbbb74-732f-4e39-acfb-6b244e48e4bb.png" width="450"> </p>
 <p align="center" 
 <img scr="https://cdn.phototourl.com/free/2026-08-19-ef167175-f24e-43db-957c-711a8a321821.png" width="300"></p>
