@@ -11,6 +11,6 @@ hello there
   <p align="center">   
   $\color{#979797}{\text{minor}}$ </p>
   <p align="center">   
-  $\color{#787878}{\text{yellow}}$ $\color{#4A4A4A}{\text{tulip}}$ $\color{#434343}{\text{/}}$ $\color{#595959}{\text{diana}}$</p>
+  $\color{#787878}{\text{yellow}}$ $\color{#4A4A4A}{\text{tulip}}$ $\color{#979797}{\text{/}}$ $\color{#595959}{\text{diana}}$</p>
   <p align="center">   
   <img src="https://cdn.phototourl.com/free/2026-08-30-d57dc285-c6b6-4d81-a792-ed19584465e2.gif" width="350"> </p>
