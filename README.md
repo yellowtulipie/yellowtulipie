@@ -3,7 +3,7 @@ hello there
 <img src="https://cdn.phototourl.com/member/2026-10-01-fda7aa57-f243-40ab-b9c7-e40057bfe2a7.png" width="43px"/>
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yellowtulipie&style=plastic&color=lightgrey&label=`⎚⩊⎚´" />
+  <img src="https://komarev.com/ghpvc/?username=yellowtulipie&style=plastic&color=lightgrey&label=^3^" />
 </p>
 <div>
 <p align="center">   
