@@ -7,7 +7,7 @@ hello there
 </p>
 <div>
 <p align="center">   
-    <img src="https://cdn.phototourl.com/member/2026-10-01-3e30b9db-ec48-44f8-bba0-5dfa72e6e09e.png" width="350"> </p>
+    <img src="https://cdn.phototourl.com/anon/2026-11-24-fe83ef31-3676-473a-9eb7-0c38c0dcdab3.png" width="350"> </p>
   <p align="center">   
   $\color{#979797}{\text{minor}}$ </p>
   <p align="center">   
